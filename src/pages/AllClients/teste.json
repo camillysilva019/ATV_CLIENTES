@@ -1,0 +1,24 @@
+{
+    "_array": [
+        {
+            "data_nasc": "1999-01-01",
+            "nome": "João",
+            "idade": 25,
+            "id": 2
+        },
+        {
+            "data_nasc": "1994-05-15",
+            "nome": "Maria",
+            "idade": 30,
+            "id": 3
+        },
+        {
+            "data_nasc": "2006-10-20",
+            "nome": "Carlos",
+            "idade": 18,
+            "id": 4
+        }
+    ],
+    "length": 3
+}
+
